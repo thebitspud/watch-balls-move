@@ -1,0 +1,22 @@
+body {
+    margin: 1vh 1vw;
+    background-color: black;
+    color: white;
+    font-family: monospace;
+    font-size: 14px;
+}
+
+canvas {
+    outline: 1px solid #666666;
+}
+
+#title-text {
+    font-size: 36px;
+    text-align: center;
+}
+
+#main-display {
+    width: 98vw;
+    height: 80vh;
+    text-align: center;
+}
